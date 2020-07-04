@@ -20,8 +20,9 @@ Data visualization is done by
 4)PaIn plot
 
 5)Boxplot
+6)Scatter plot 
 
-By comparing the prediction accuracy of these models, it was found that model trained on logistic regression performed the best in classifying the dataset.
+By comparing the prediction accuracy of these models, it was found that model trained on logistic regression and SVM performed the best in classifying the dataset.
 
 Tools used: Jupyter notebook
 
