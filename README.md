@@ -1,13 +1,13 @@
 # Breast-cancer-dataset-classification-
 The objective of the project was to build various models and compare their prediction performance based on accuracy.
 Built models trained on 
-1)logistic regression
+1)Logistic regression
 
 2)SVM
 
 3)KNN
 
-4) random forest.
+4)Random forest.
 
 Data visualization is done by
 
@@ -20,6 +20,7 @@ Data visualization is done by
 4)PaIn plot
 
 5)Boxplot
+
 6)Scatter plot 
 
 By comparing the prediction accuracy of these models, it was found that model trained on logistic regression and SVM performed the best in classifying the dataset.
